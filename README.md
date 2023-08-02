@@ -16,7 +16,7 @@
 ## Краткое описание данных
 Представленный датасет - это база резюме, выгруженная с сайта поиска вакансий hh.ru.
 
-Вы можете увидеть датасет [здесь.](https://drive.google.com/file/d/1eJVwKczU5q_OdXyEaSGufqrwl6scRkST/view?usp=drive_link)
+Вы можете скачать данный  датасет [здесь.](https://drive.google.com/file/d/1eJVwKczU5q_OdXyEaSGufqrwl6scRkST/view?usp=drive_link)
 
 Также в проекте будет задействован [датасет по курсу валют](https://drive.google.com/file/d/1mcczEWn13KzhYwIuDVC5klDk2542_oaF/view?usp=sharing)
 
